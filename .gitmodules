@@ -5,6 +5,3 @@
 [submodule "fasta"]
 	path = fasta
 	url = https://github.com/cran/fasta
-[submodule "splitFeas"]
-	path = splitFeas
-	url = https://github.com/cran/splitFeas
